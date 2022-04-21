@@ -16,8 +16,8 @@ aforementioned data
 to 2024) for each of the 15 time series
 4. Tabulated all the results
 5. Generated  scatter plots: average degree vs network diameter and color the points
-according to walking and running (do this for each accelerometer signal and
+according to walking and running (did this for each accelerometer signal and
 each method (HVH and NVG))
 6. Generated  scatter plots: average degree vs network diameter and color the points
-according to climbing up and climbing down (do this for each accelerometer
+according to climbing up and climbing down (did this for each accelerometer
 signal and each method (HVH and NVG))
